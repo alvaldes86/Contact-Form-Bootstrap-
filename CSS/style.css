@@ -7,3 +7,13 @@ main>.container {
 .margin-top{
     margin-top: 110px;
 }
+
+.first-container{
+    background-color: rgb(189, 186, 186);
+}
+
+ input{
+    border: none;
+    border-radius: 5px;
+    
+}
